@@ -30,6 +30,7 @@ buildscript {
 
     //Network
     ext.retrofit_version = "2.9.0"
+    ext.ok_http_version = '4.5.0'
 
     //Tests
     ext.junit_version = "4.13.1"
