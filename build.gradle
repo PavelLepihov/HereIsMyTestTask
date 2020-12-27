@@ -13,15 +13,23 @@ buildscript {
     ext.appcompat_version = "1.2.0"
     ext.constraintlayout_version = "2.0.4"
     ext.paging_version = "3.0.0-alpha11"
+    ext.recycler_view_version = "1.2.0-beta01"
+    ext.lifecycle_version = "2.2.0"
+    ext.nav_version = "2.3.2"
+    ext.card_view_version = "1.0.0"
 
     //Google
     ext.material_version = "1.2.1"
+    ext.gson_version = "2.8.6"
 
     //Room
     ext.room_version = "2.3.0-alpha04"
 
     //Koin
     ext.koin_version = "2.2.2"
+
+    //Network
+    ext.retrofit_version = "2.9.0"
 
     //Tests
     ext.junit_version = "4.13.1"
